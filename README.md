@@ -7,3 +7,7 @@ Run cypress
 ```
 yarn run cypress open
 ```
+ENV file
+```
+cypress.env.json
+```
